@@ -83,3 +83,4 @@ License
 -------
 
 For license information see the file [COPYING](COPYING).
+This project is a demonstration of blockchain technology and smart contract integration.
